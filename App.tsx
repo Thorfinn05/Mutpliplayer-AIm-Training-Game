@@ -276,7 +276,7 @@ const App: React.FC = () => {
         )}
       </div>
        <footer className="text-center text-slate-500 mt-8 text-sm">
-        Enhanced Multiplayer Aim Trainer. Built by Thorfinn05.
+          Enhanced Multiplayer Aim Trainer. Built by <a href="https://github.com/Thorfinn05" className="text-blue-500 hover:underline">Thorfinn05</a>.
       </footer>
     </div>
   );
