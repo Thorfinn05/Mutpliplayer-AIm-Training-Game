@@ -1,4 +1,4 @@
-# Run and deploy your AI Studio app
+# Run and deploy your Aim Training Game app
 
 This contains everything you need to run your app locally.
 
